@@ -22,24 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Principal Investigator
+    company: OMRON SINIC X
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Tokyo, Japan
+    date_start: '2020-04-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        * Leading the Perception Group
+        * Conducting research on computer vision, machine learning, and their applications to robotics.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Senior Researcher
+    company: OMRON SINIC X
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Tokyo, Japan
+    date_start: '2018-01-01'
+    date_end: '2019-12-31'
+    description: Conducted research on federated learning and transfer learning.
+
+  - title: Assistant Professor
+    company: University of Tokyo
+    company_url: ''
+    location: Tokyo, Japan
+    date_start: '2014-04-01'
+    date_end: '2018-12-31'
+    description: Conducted research on first-person vision.
+
+  - title: Visiting Scholar 
+    company: Carnegie Mellon University
+    company_url: ''
+    location: Pittsburgh, CA, USA
+    date_start: '2016-09-01'
+    date_end: '2017-08-31'
+    description: Conducted research on privacy-preserving machine learning.
 ---
