@@ -28,9 +28,6 @@ experience:
     location: Tokyo, Japan
     date_start: '2020-04-01'
     date_end: ''
-    description: |2-
-        * Leading the Perception Group
-        * Conducting research on computer vision, machine learning, and their applications to robotics.
         
   - title: Senior Researcher
     company: OMRON SINIC X
@@ -38,7 +35,6 @@ experience:
     location: Tokyo, Japan
     date_start: '2018-01-01'
     date_end: '2019-12-31'
-    description: Conducted research on federated learning and transfer learning.
 
   - title: Assistant Professor
     company: University of Tokyo
@@ -46,7 +42,6 @@ experience:
     location: Tokyo, Japan
     date_start: '2014-04-01'
     date_end: '2018-12-31'
-    description: Conducted research on first-person vision.
 
   - title: Visiting Scholar 
     company: Carnegie Mellon University
@@ -54,5 +49,4 @@ experience:
     location: Pittsburgh, CA, USA
     date_start: '2016-09-01'
     date_end: '2017-08-31'
-    description: Conducted research on privacy-preserving machine learning.
 ---

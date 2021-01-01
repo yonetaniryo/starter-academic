@@ -13,10 +13,9 @@
   url = "#projects"
   weight = 30
 
-
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.

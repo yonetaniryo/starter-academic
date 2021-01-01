@@ -6,20 +6,20 @@ title: Ryo Yonetani
 superuser: true
 
 # Role/position/tagline
-role: Principal Investigator
+# role: Principal Investigator
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: OMRON SINIC X
-  url: https://www.omron.com/sinicx/
+# organizations:
+# - name: OMRON SINIC X
+# url: https://www.omron.com/sinicx/
 
 # Short bio (displayed in user profile at end of posts)
 bio: OMRON SINIC X
 
 # Interests to show in About widget
 interests:
-- Computer Vision
-- Machine Learning
+- Computer Vision (Visual Forecasting, First-Person Vision)
+- Machine Learning (Federated Learning, Robot Learning)
 
 # Education to show in About widget
 education:
@@ -34,6 +34,7 @@ education:
     institution: Kyoto University
     year: 2008
 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -41,19 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:ryo.yonetani@sinicx.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/RYonetani
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=DYXnRWEAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/yonetaniryo
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/ryo-yonetani-75633b163/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -63,13 +64,11 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ryo.yonetani@sinicx.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Ryo Yonetani is a PI of OMRON SINIC X. His research interests include computer vision (first-person vision and activity forecasting) and machine learning (federated learning).
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+- **Principal Investigator** @ [OMRON SINIC X](https://www.omron.com/sinicx/)
+- **Cooperative Research Fellow** @ [Y.Sato Lab](https://www.ut-vision.org/sato-lab/), University of Tokyo
