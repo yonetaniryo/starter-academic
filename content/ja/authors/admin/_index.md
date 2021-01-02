@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryo Yonetani
+title: 米谷　竜
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,24 +14,24 @@ superuser: true
 # url: https://www.omron.com/sinicx/
 
 # Short bio (displayed in user profile at end of posts)
-bio: OMRON SINIC X
+bio: オムロンサイニックエックス
 
 # Interests to show in About widget
 interests:
-- Computer Vision (Visual Forecasting, First-Person Vision)
-- Machine Learning (Federated Learning, Robot Learning)
+- コンピュータビジョン（視覚的予測、一人称ビジョン）
+- 機械学習（フェデレーテッドラーング、ロボット学習）
 
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D in Informatics
-    institution: Kyoto University
+  - course: 博士（情報学）
+    institution: 京都大学
     year: 2013
-  - course: M.S in Informatics
-    institution: Kyoto University
+  - course: 修士（情報学）
+    institution: 京都大学
     year: 2010
-  - course: B.E in Electrical and Electronic Engineering
-    institution: Kyoto University
+  - course: 学士（電気電子工学）
+    institution: 京都大学
     year: 2008
 
 
@@ -70,5 +70,5 @@ email: "ryo.yonetani@sinicx.com"
 highlight_name: true
 ---
 
-- **Principal Investigator** @ [OMRON SINIC X](https://www.omron.com/sinicx/)
-- **Cooperative Research Fellow** @ [Y.Sato Lab](https://www.ut-vision.org/sato-lab/), University of Tokyo
+- **プリンシパルインベスティゲーター** @ [オムロンサイニックエックス](https://www.omron.com/sinicx/)
+- **協力研究員** @ [東京大学 生産技術研究所 佐藤洋一研究室](https://www.ut-vision.org/sato-lab/)

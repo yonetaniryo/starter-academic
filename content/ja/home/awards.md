@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 70
 
 title: 学術活動
 subtitle: ''
@@ -42,12 +42,24 @@ subtitle: ''
 
 # 学会活動
 ## チェア
+- 画像の認識・理解シンポジウム (MIRU) 財務委員長, 2019, 2021
+- 情報処理学会コンピュータビジョンとイメージメディア（CVIM）研究会 幹事, 2018 - 現在
+- 情報処理学会 論文誌ジャーナル/JIP編集委員会 編集委員, 2017 - 2018
 - **Publication Chair** @ [International Conference on Machine Vision Applications (MVA), 2021](http://www.mva-org.jp/mva2021/)
 - **Publicity Chair** @ [Asian Conference on Computer Vision (ACCV), 2020](https://accv2020.github.io/)
 - **Program Chair** @ [International Workshop on Human Activity Analysis with Highly Diverse Cameras (HDC), 2017](https://printeps.org/HDC2017/)
 - **Sponsorship Chair** @ [International Conference on Multimodal Interaction (ICMI), 2016](http://icmi.acm.org/2016/)
-## Reviewers
+## 査読
 - **Computer vision**: CVPR (2015 - Present), ICCV (2015 - Present), ECCV (2014 - Present), ACCV (2014 - Present), IEEE TPAMI, IJCV
 - **Robotics**: ICRA (2019 - Present), IROS (2019 - Present)
 - **Machine learning and AI**: IJCAI (2021 as a Senior Program Chair)
 - **Others**: CHI (2017), ICPR (2014)
+
+## 招待講演、講義
+- サーベイ論文の書き方 ～視覚的注意モデルのサーベイを題材に～, パターン認識とメディア理解研究会, 2018
+- 一人称ビジョンと集合視, 【第22回AIセミナー】 「コンピュータービジョンとAI　～人とロボットの視覚～」, 産総研 人工知能研究センター, 2018
+- グランドチャレンジは誰がやるのか, 特別セッション「今後の研究会のあり方を考える」, パターン認識とメディア理解研究会, 2018
+- 一人称ビジョン, 人工知能とメディア, はこだて未来大学, 2017
+- 一人称視点映像解析の最先端, 画像の認識・理解シンポジウム, 2016
+- Recognizing Micro-Actions and Reactions from Paired Egocentric Videos, 画像の認識・理解シンポジウム, 2016
+- Ego-Surfing First-Person Videos, 画像の認識・理解シンポジウム, 2015
