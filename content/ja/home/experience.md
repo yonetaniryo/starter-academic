@@ -22,6 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 特任講師
+    company: 慶應義塾大学 Hyper Vision Research Laboratory
+    company_url: ''
+    location: Tokyo, Japan
+    date_start: '2021-04-01'
+    date_end: ''
+
   - title: プリンシパルインベスティゲーター
     company: オムロンサイニックエックス株式会社
     company_url: ''
@@ -49,4 +56,5 @@ experience:
     location: Pittsburgh, CA, USA
     date_start: '2016-09-01'
     date_end: '2017-08-31'
+
 ---

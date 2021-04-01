@@ -71,4 +71,5 @@ highlight_name: true
 ---
 
 - **Principal Investigator** @ [OMRON SINIC X](https://www.omron.com/sinicx/)
+- **Project Assistant Professor** @ [Hyper Vision Research Laboratory](http://www.hvrl.ics.keio.ac.jp/), Keio University
 - **Cooperative Research Fellow** @ [Y.Sato Lab](https://www.ut-vision.org/sato-lab/), University of Tokyo

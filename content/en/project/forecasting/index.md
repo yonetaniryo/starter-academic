@@ -7,7 +7,7 @@ date: "2021-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Crowd density forecasting @ RA-L'20
+  caption: Future person localization @ CVPR'18
   focal_point: Smart
 
 # links:

@@ -24,28 +24,35 @@ date_format: Jan 2006
 experience:
   - title: Principal Investigator
     company: OMRON SINIC X
-    company_url: ''
+    company_url: 'https://www.omron.com/sinicx/'
     location: Tokyo, Japan
     date_start: '2020-04-01'
+    date_end: ''
+
+  - title: Project Assistant Professor 
+    company: Keio University
+    company_url: 'http://www.hvrl.ics.keio.ac.jp/'
+    location: Tokyo, Japan
+    date_start: '2021-04-01'
     date_end: ''
         
   - title: Senior Researcher
     company: OMRON SINIC X
-    company_url: ''
+    company_url: 'https://www.omron.com/sinicx/'
     location: Tokyo, Japan
     date_start: '2018-01-01'
     date_end: '2019-12-31'
 
   - title: Assistant Professor
     company: University of Tokyo
-    company_url: ''
+    company_url: 'https://www.ut-vision.org/sato-lab/'
     location: Tokyo, Japan
     date_start: '2014-04-01'
     date_end: '2018-12-31'
 
   - title: Visiting Scholar 
     company: Carnegie Mellon University
-    company_url: ''
+    company_url: 'http://www.cs.cmu.edu/~kkitani/'
     location: Pittsburgh, CA, USA
     date_start: '2016-09-01'
     date_end: '2017-08-31'

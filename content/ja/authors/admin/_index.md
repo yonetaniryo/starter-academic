@@ -71,4 +71,5 @@ highlight_name: true
 ---
 
 - **プリンシパルインベスティゲーター** @ [オムロンサイニックエックス](https://www.omron.com/sinicx/)
+- **特任講師** @ [慶應義塾大学 Hyper Vision Research Laboratory](http://www.hvrl.ics.keio.ac.jp/)
 - **協力研究員** @ [東京大学 生産技術研究所 佐藤洋一研究室](https://www.ut-vision.org/sato-lab/)
