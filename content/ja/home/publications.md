@@ -28,7 +28,7 @@ subtitle: ''
 - 米谷竜, 川嶋宏彰, 平山高嗣, 松山隆司: "Gaze Probing: イベント提示に基づく注視オブジェクト推定", ヒューマンインタフェース学会論文誌, Vol.12, No.3, pp. 125-135, 2010
 
 #### 国際会議論文
-- Ryo Yonetani, Tatsunori Taniai, Mohammadamin Barekatain, Mai Nishimura, Asako Kanezaki, "Path Planning using Neural A* Search", International Conference on Machine Learning **(ICML)**, 2021 [[arXiv]](https://arxiv.org/abs/2009.07476) (accepted)
+- Ryo Yonetani, Tatsunori Taniai, Mohammadamin Barekatain, Mai Nishimura, Asako Kanezaki, "Path Planning using Neural A\* Search", International Conference on Machine Learning **(ICML)**, 2021 [[arXiv]](https://arxiv.org/abs/2009.07476) (accepted)
 - Kazutoshi Tanaka, Ryo Yonetani, Masashi Hamaya, Robert Lee, Felix von Drigalski, Yoshihisa Ijiri, "TRANS-AM: Transfer Learning by Aggregating Dynamics Models for Soft Robotic Assembly", International Conference on Robotics and Automation **(ICRA)**, 2021 (accepted)
 - Felix von Drigalski, Masashi Hayashi, Yifei Huang, Ryo Yonetani, Masashi Hamaya, Kazutoshi Tanaka, and Yoshihisa Ijiri, "Precise Multi-Modal In-Hand Pose Estimation using Low-Precision Sensors for Robotic Assembly", International Conference on Robotics and Automation **(ICRA)**, 2021 (accepted)
 - Jiaxin Ma, Ryo Yonetani, Zahid Iqbal, "Adaptive Distillation for Decentralized Learning from Heterogeneous Clients", International Conference on Pattern Recognition **(ICPR)**, 2020 [[arXiv]](https://arxiv.org/abs/2008.07948)
