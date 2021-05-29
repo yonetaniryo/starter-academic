@@ -19,7 +19,7 @@ bio: オムロンサイニックエックス
 # Interests to show in About widget
 interests:
 - コンピュータビジョン（視覚的予測、一人称ビジョン）
-- 機械学習（フェデレーテッドラーング、ロボット学習）
+- 機械学習（連合学習、ロボット学習）
 
 # Education to show in About widget
 education:
