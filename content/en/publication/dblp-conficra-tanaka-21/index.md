@@ -1,16 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Client Selection for Federated Learning with Heterogeneous Resources in Mobile
-  Edge
+title: 'TRANS-AM: Transfer Learning by Aggregating Dynamics Models for Soft Robotic
+  Assembly'
 subtitle: ''
 summary: ''
 authors:
-- Takayuki Nishio
+- Kazutoshi Tanaka
 - Ryo Yonetani
+- Masashi Hamaya
+- Robert Lee
+- Felix von Drigalski
+- Yoshihisa Ijiri
 tags: []
 categories: []
-date: '2019-01-01'
+date: '2021-01-01'
 lastmod: 2021-07-01T14:01:44+09:00
 featured: false
 draft: false
@@ -29,12 +33,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-01T05:01:44.470794Z'
+publishDate: '2021-07-01T05:01:44.028988Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the IEEE International Conference on Communications,
-  (ICC)*'
-url_pdf: https://doi.org/10.1109/ICC.2019.8761315
-doi: 10.1109/ICC.2019.8761315
+publication: '*Proceedings of the IEEE International Conference on Robotics and Automation,
+  (ICRA)*'
 ---

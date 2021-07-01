@@ -12,8 +12,8 @@ authors:
 - Asako Kanezaki
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-01-02T21:16:03+09:00
+date: '2021-01-01'
+lastmod: 2021-07-01T14:01:44+09:00
 featured: false
 draft: false
 
@@ -31,10 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-01T13:49:08.258603Z'
+publishDate: '2021-07-01T05:01:43.835353Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*CoRR*'
-url_pdf: https://arxiv.org/abs/2009.07476
+publication: '*Proceedings of the International Conference on Machine Learning, (ICML)*'
 ---
