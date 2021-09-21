@@ -19,20 +19,20 @@ bio: オムロンサイニックエックス
 # Interests to show in About widget
 interests:
 - コンピュータビジョン（視覚的予測、一人称ビジョン）
-- 機械学習（連合学習、ロボット学習）
+- 機械学習（連合学習、転移学習、強化学習）
 
 # Education to show in About widget
 education:
   courses:
   - course: 博士（情報学）
     institution: 京都大学
-    year: 2013
+    year: 2013年11月
   - course: 修士（情報学）
     institution: 京都大学
-    year: 2010
+    year: 2011年3月
   - course: 学士（電気電子工学）
     institution: 京都大学
-    year: 2008
+    year: 2009年3月
 
 
 # Social/Academic Networking

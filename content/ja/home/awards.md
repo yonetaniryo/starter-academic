@@ -52,7 +52,7 @@ subtitle: ''
 ## 査読
 - **Computer vision**: CVPR (2015 - Present), ICCV (2015 - Present), ECCV (2014 - Present), ACCV (2014 - Present), IEEE TPAMI, IJCV
 - **Robotics**: ICRA (2019 - Present), IROS (2019 - Present)
-- **Machine learning and AI**: IJCAI (2021 as a Senior Program Chair)
+- **Machine learning and AI**: IJCAI (2021 as a Senior PC), AAAI (2022 as a Senior PC)
 - **Others**: CHI (2017), ICPR (2014)
 
 ## 招待講演、講義

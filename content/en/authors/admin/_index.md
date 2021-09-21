@@ -19,20 +19,20 @@ bio: OMRON SINIC X
 # Interests to show in About widget
 interests:
 - Computer Vision (Visual Forecasting, First-Person Vision)
-- Machine Learning (Federated Learning, Robot Learning)
+- Machine Learning (Federated Learning, Transfer Learning, Reinforcement Learning)
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D in Informatics
     institution: Kyoto University
-    year: 2013
+    year: 2013.11
   - course: M.S in Informatics
     institution: Kyoto University
-    year: 2010
+    year: 2011.3
   - course: B.E in Electrical and Electronic Engineering
     institution: Kyoto University
-    year: 2008
+    year: 2009.3
 
 
 # Social/Academic Networking
